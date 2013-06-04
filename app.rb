@@ -6,7 +6,7 @@ get '/' do
 end
 
 ##~ s = source2swagger.namespace("api")
-##~ s.basePath =  "http://foo-swagger.cfapps.io"
+##~ s.basePath =  "http://localhost:9292"
 ##~ s.swaggerVersion = "1.1"
 ##~ s.apiVersion = "1.0"
 ##~ s.resourcePath = "/foo"
