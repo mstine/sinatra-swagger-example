@@ -1,0 +1,7 @@
+---
+applications:
+- name: foo-swagger
+  memory: 256M
+  instances: 1
+  url: foo-swagger.cfapps.io
+  path: .
